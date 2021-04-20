@@ -23,11 +23,11 @@ nav li{
     display: inline-block;
     height: 30px;
     margin: 0px;
-    padding: 0px;
+    padding: 20px 30px;
 }
 nav.nav li a{
     
-    display: flex;
+    display: inline-block;
     color:black;
 
 }
